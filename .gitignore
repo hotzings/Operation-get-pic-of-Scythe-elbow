@@ -1,0 +1,16 @@
+jarmods
+config
+disabledmods
+jarmods
+local
+logs
+modernfix
+mods/*.jar
+patchouli_books
+saves
+.qmenu_opened.marker
+instance.json
+patchouli_data.json
+rhino.local.properties
+usercache.json
+usernamecache.json
