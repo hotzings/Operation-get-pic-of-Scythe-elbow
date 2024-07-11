@@ -8,7 +8,8 @@
           "type": "apoli:exposed_to_sun"
         },
         {
-          "type": "apoli:invisible",
+          "type": "apoli:power_active",
+          "power": "zings:dwarf_mole_mode",
           "inverted": true
         }
       ]

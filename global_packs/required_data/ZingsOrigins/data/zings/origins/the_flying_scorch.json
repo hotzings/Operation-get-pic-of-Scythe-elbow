@@ -6,7 +6,8 @@
 		"origins:light_armor",
 		"origins:claustrophobia",
 		"origins:fragile",
-		"origins:more_kinetic_damage"
+		"origins:more_kinetic_damage",
+		"zings:scorch_hates_caves"
 	],
 	"icon": {
 		"item": "minecraft:elytra"

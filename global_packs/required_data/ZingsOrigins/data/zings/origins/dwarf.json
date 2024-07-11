@@ -6,7 +6,9 @@
 		"origins:hunger_over_time",
 		"origins:fragile",
 		"zings:dwarf_mole_mode_overlay",
-		"zings:dwarf_size"
+		"zings:dwarf_size",
+		"zings:dwarf_afraid_of_surface",
+		"zings:dwarf_loves_caves"
 	],
 	"icon": {
 		"item": "minecraft:gold_ingot"
