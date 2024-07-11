@@ -14,3 +14,12 @@ patchouli_data.json
 rhino.local.properties
 usercache.json
 usernamecache.json
+whitelist.json
+ops.json
+fabricloader.log
+screenshots
+mods/.connector
+journeymap
+essential
+data
+crash-reports
