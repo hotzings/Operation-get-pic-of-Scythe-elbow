@@ -1,0 +1,2 @@
+add likes being underground aka under y=70 gives buff
+add dislikes above ground if can see sky debuffs
