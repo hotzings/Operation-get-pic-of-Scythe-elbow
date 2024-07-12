@@ -1,3 +1,5 @@
+del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods
+
 xcopy mods C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods /s /e
 xcopy config C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\config /s /e
 xcopy global_packs C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\global_packs /s /e
