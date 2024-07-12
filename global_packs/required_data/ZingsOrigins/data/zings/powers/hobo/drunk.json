@@ -1,0 +1,38 @@
+{
+  "name":"Drunk",
+  "description":"You are drunk.",
+  "type": "origins:action_over_time",
+  "interval": 20,
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+        {
+          "type": "origins:chance",
+          "action": {
+            "type": "origins:apply_effect",
+            "effects": [
+              {
+                "effect": "minecraft:nausea",
+                "duration": 200,
+                "amplifier": 0
+              }
+            ]
+          },
+        "chance": 0.01},
+
+        {
+          "type": "origins:chance",
+          "action": {
+            "type": "origins:apply_effect",
+            "effects": [
+              {
+                "effect": "minecraft:blindness",
+                "duration": 100,
+                "amplifier": 0
+              }
+            ]
+          },
+        "chance": 0.005}
+    ]
+  }
+}

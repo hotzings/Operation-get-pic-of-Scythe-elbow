@@ -14,7 +14,8 @@
       "origins:phantom",
       "origins:shulk",
       "zings:dwarf",
-      "zings:the_flying_scorch"
+      "zings:the_flying_scorch",
+      "zings:hobo"
     ],
     "allow_random": true,
     "exclude_random": [
