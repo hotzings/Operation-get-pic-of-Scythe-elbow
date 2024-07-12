@@ -1,0 +1,1 @@
+xcopy defaultconfigs config  /s /e
