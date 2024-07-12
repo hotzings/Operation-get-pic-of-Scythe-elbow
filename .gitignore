@@ -5,7 +5,7 @@ jarmods
 local
 logs
 modernfix
-mods/*.jar
+mods/*.jars
 patchouli_books
 saves
 .qmenu_opened.marker
