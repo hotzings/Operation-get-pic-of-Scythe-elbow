@@ -23,3 +23,9 @@ journeymap
 essential
 /data
 crash-reports
+Distant_Horizons_server_data
+.curseclient
+imgui.ini
+minecraftinstance.json
+servers.dat
+servers.essential.dat
