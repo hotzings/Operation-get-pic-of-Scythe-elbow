@@ -2070,4 +2070,29 @@
 		"zings:dwarf_phasing" = true
 		"zings:dwarf_invisibility" = true
 		"zings:dwarf_mole_mode_overlay" = true
+		"zings:dwarf_burn_in_daylight" = true
+		"zings:dwarf_size" = true
+		"zings:dwarf_afraid_of_surface" = true
+		"zings:dwarf_loves_caves" = true
+
+	[origins."zings:the_flying_scorch"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:launch_into_air" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:claustrophobia" = true
+		"origins:fragile" = true
+		"origins:more_kinetic_damage" = true
+		"zings:scorch_hates_caves" = true
+		"zings:scorch_light_armor" = true
+		"zings:scorch_size_change" = true
+		"zings:scorch_size_changer" = true
+		"zings:scorch_size_resource" = true
+
+	[origins."zings:hobo"]
+		enabled = true
+		"zings:hobo_drunk" = true
+		"zings:hobo/drunk" = true
+		"zings:dwarf_afraid_of_surface" = true
 

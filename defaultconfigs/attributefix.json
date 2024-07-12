@@ -110,6 +110,17 @@
         "value": 1000
       }
     },
+    "piglinproliferation:turning_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "attributeslib:cold_damage": {
       "enabled": false,
       "min": {
@@ -165,17 +176,6 @@
         "value": 1024
       }
     },
-    "tetra:draw_strength": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
     "additionalentityattributes:lava_visibility": {
       "enabled": false,
       "min": {
@@ -185,6 +185,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "tetra:draw_strength": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "additionalentityattributes:bonus_loot_count_rolls": {
@@ -286,7 +297,7 @@
         "value": 1000000
       }
     },
-    "tetra:draw_speed": {
+    "additionalentityattributes:dig_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -297,7 +308,7 @@
         "value": 2048
       }
     },
-    "additionalentityattributes:dig_speed": {
+    "tetra:draw_speed": {
       "enabled": false,
       "min": {
         "default": 0,

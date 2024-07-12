@@ -1,0 +1,6 @@
+{
+  "enableOnIp": [
+    "localhost"
+  ],
+  "disableOnIp": []
+}

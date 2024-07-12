@@ -13,13 +13,41 @@
             "effects": [
               {
                 "effect": "minecraft:nausea",
-                "duration": 200,
+                "duration": 400,
                 "amplifier": 0
               }
             ]
           },
         "chance": 0.01},
 
+        {
+          "type": "origins:chance",
+          "action": {
+            "type": "origins:apply_effect",
+            "effects": [
+              {
+                "effect": "brewery:drunk",
+                "duration": 400,
+                "amplifier": 2
+              }
+            ]
+          },
+        "chance": 0.01},
+
+        {
+          "type": "origins:chance",
+          "action": {
+            "type": "origins:apply_effect",
+            "effects": [
+              {
+                "effect": "minecraft:hunger",
+                "duration": 200,
+                "amplifier": 0
+              }
+            ]
+          },
+        "chance": 0.01},
+        
         {
           "type": "origins:chance",
           "action": {
