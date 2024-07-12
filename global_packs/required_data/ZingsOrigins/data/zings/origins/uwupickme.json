@@ -1,0 +1,19 @@
+{
+	"powers": [
+		
+		"origins:launch_into_air",
+		"origins:aerial_combatant",
+		"zings:scorch_light_armor",
+		"origins:claustrophobia",
+		"origins:fragile",
+		"zings:dwarf_afraid_of_surface",
+	    "zings:dwarf_extra_hungry",
+        "origins:disable_regen",
+    "origins:water_vulnerability",
+"origins:aquatic"],
+	"icon": {
+		
+	},
+	"order": 3,
+	"impact": 1
+}
