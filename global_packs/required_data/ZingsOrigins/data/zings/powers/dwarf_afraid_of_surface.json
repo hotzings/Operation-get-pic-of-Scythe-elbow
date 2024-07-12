@@ -1,11 +1,5 @@
 {
     "type": "origins:multiple",
-    "debuff": {
-      "type": "origins:prevent_sprinting",
-      "condition": {
-        "type": "origins:exposed_to_sky"
-      }
-    },
     "shaking": {
       "type": "origins:shaking",
       "condition": {
