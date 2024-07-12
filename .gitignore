@@ -28,6 +28,7 @@ Distant_Horizons_server_data
 imgui.ini
 minecraftinstance.json
 servers.dat
+servers.dat.old
 servers.essential.dat
 options.txt
 chiselsandbits
