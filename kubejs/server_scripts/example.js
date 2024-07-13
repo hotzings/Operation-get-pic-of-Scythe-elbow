@@ -25,6 +25,12 @@ ServerEvents.recipes(event => {
           e: 'minecraft:emerald'
         }
       )
+    // Add shapeless crafting recipe for botania:red_string
+    event.shapeless("botania:red_string", [
+      ['2x #chipped:redstone_block'],
+      ['2x minecraft:string'],
+      ['2x botania:pixie_dust]'
+    ]);
   
     console.log('Hello! The recipe event has fired!')
   })
