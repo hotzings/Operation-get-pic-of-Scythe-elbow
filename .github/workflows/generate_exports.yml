@@ -29,6 +29,6 @@ jobs:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: build/ScorchOriginPackThingy-1.0.0.zip
         asset_name: export-v-${{github.run_number}}.zip
-        tag: Release V-${{github.run_number}}
+        tag: Release-V-${{github.run_number}}
         overwrite: true
         body: "This is my release text"
