@@ -22,3 +22,12 @@ jobs:
         git add .
         git commit -m "generated"
         git push
+    - name: Upload binaries to release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: build/ScorchOriginPackThingy-1.0.0.zip
+        asset_name: export
+        tag: ${{ github.ref }}
+        overwrite: true
+        body: "This is my release text"
