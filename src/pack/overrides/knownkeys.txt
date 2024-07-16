@@ -200,3 +200,4 @@ key.little.mark
 key.little.config.item
 key.little.undo
 key.little.redo
+key.hotbar.9
