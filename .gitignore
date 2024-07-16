@@ -39,3 +39,4 @@ defaultconfigs/packetfixer.properties
 defaultconfigs/ftbchunks/client-config.snbt
 defaultconfigs/ftblibrary/ftblibrary-client.snbt
 servers.dat_old
+/build
