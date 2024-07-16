@@ -31,7 +31,6 @@ key.hotbar.5
 key.hotbar.6
 key.hotbar.7
 key.hotbar.8
-key.hotbar.9
 mod.chiselsandbits.keys.key.modded-tool.open
 mod.chiselsandbits.keys.key.modded-tool.cycle.left
 mod.chiselsandbits.keys.key.modded-tool.cycle.right
