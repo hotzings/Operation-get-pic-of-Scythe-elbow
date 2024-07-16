@@ -30,5 +30,5 @@ jobs:
         file: build/ScorchOriginPackThingy-1.0.0.zip
         asset_name: export.zip
         tag: Release
-        overwrite: true
+        overwrite: false
         body: "This is my release text"
