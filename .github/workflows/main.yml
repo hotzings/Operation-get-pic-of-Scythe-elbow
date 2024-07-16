@@ -8,12 +8,12 @@ jobs:
     strategy:
       matrix:
         node_version: ['18.x', '20.x']
-        os: [ubuntu-latest, windows-latest, macOS-latest]
+        os: [windows-latest]
 
     steps:
     - uses: actions/checkout@v4
 
-    - name: npm install, build and test
+    - name: build and deploy
       run: |
         build.bat
         # Note: the following account information will not work on GHES
