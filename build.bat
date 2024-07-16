@@ -7,3 +7,7 @@ FOR /F "eol=# tokens=*" %%i IN (%~dp0.env) DO SET %%i
 tar -xf temp/ScorchletsPlayOrigins-1.0.0.zip -C ./src/pack
 
 del temp/ScorchletsPlayOrigins-1.0.0.zip /q
+
+cd %minecraftInstanceDir%
+
+call C:\Users\zings\AppData\Roaming\ATLauncher\instances\ScorchLetsPlayoriginspacktrust\UpdateServer.bat
