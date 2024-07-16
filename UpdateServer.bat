@@ -1,14 +1,14 @@
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods /q
-xcopy mods C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods /s /e
+xcopy C:\Users\zings\AppData\Roaming\ATLauncher\instances\ScorchLetsPlayoriginspacktrust\mods C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods /s /e
 
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\config /q
-xcopy config C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\config /s /e
+xcopy C:\Users\zings\AppData\Roaming\ATLauncher\instances\ScorchLetsPlayoriginspacktrust\config C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\config /s /e
 
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\global_packs /q
-xcopy global_packs C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\global_packs /s /e
+xcopy C:\Users\zings\AppData\Roaming\ATLauncher\instances\ScorchLetsPlayoriginspacktrust\global_packs C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\global_packs /s /e
 
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\kubejs /q
-xcopy kubejs C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\kubejs /s /e
+xcopy C:\Users\zings\AppData\Roaming\ATLauncher\instances\ScorchLetsPlayoriginspacktrust\kubejs C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\kubejs /s /e
 
 
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods\Essential-forge_1-20-1.jar /q
