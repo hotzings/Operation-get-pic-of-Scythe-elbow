@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"origins:elytra",
+		"origins:launch_into_air",
+		"origins:aerial_combatant",
+		"zings:scorch_light_armor",
+		"origins:claustrophobia",
+		"zings:scorch_hates_caves",
+		"zings:scorch_size_change",
+		"zings:scorch_size_changer",
+		"zings:scorch_size_resource"
+	],
+	"icon": {
+		"item": "minecraft:elytra"
+	},
+	"order": 3,
+	"impact": 1
+}

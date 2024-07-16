@@ -1,0 +1,33 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+        {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "value": 0,
+            "name": "Increased sprinting speed"
+        },
+        {
+            "attribute": "minecraft:generic.luck",
+            "operation": "addition",
+            "value": 0.4,
+            "name": "Increased luck"
+        },
+        {
+            "attribute": "minecraft:player.mining_efficiency",
+            "operation": "addition",
+            "value": 0.5,
+            "name": "Increased mining speed"
+        }
+    ],
+
+    "tick_rate": 20,
+    "block_condition": {
+        "type": "origins:height",
+        "comparison": "<",
+        "compare_to": 70
+    },
+
+  "name":"loves being underground",
+  "description":"You enjoy being underground mining and gathering ores."  
+}

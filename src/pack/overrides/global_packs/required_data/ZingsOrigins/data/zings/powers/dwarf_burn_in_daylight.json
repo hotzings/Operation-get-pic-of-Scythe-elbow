@@ -1,0 +1,18 @@
+{
+    "type": "apoli:burn",
+    "burn_duration": 6,
+    "condition": {
+      "type": "apoli:and",
+      "conditions": [
+        {
+          "type": "apoli:exposed_to_sun"
+        },
+        {
+          "type": "apoli:power_active",
+          "power": "zings:dwarf_mole_mode",
+          "inverted": true
+        }
+      ]
+    },
+    "interval": 20
+}

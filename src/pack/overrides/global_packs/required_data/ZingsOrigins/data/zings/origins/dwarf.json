@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"zings:dwarf_mole_mode",
+		"zings:dwarf_phasing",
+		"zings:dwarf_burn_in_daylight",
+		"origins:hunger_over_time",
+		"origins:fragile",
+		"zings:dwarf_mole_mode_overlay",
+		"zings:dwarf_size",
+		"zings:dwarf_afraid_of_surface",
+		"zings:dwarf_loves_caves"
+	],
+	"icon": {
+		"item": "minecraft:gold_ingot"
+	},
+	"order": 2,
+	"impact": 3
+}

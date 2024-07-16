@@ -1,0 +1,12 @@
+{
+    "type": "origins:multiple",
+    "shaking": {
+      "type": "origins:shaking",
+      "condition": {
+        "type": "origins:exposed_to_sky"
+      }
+  },
+  "name":"Afraid of surface",
+  "description":"You are afraid of being above ground."  
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "type": "origins:multiple",
+    "miningfatigue": {
+      "type": "minecraft:mining_fatigue",
+      "duration": 0,
+      "amplifier": 1,
+      "condition": {
+        "type": "minecraft:y",
+        "operator": "<=",
+        "value": 40
+      }
+    },
+    "shaking": {
+      "type": "origins:shaking",
+      "condition": {
+        "type": "minecraft:y",
+        "operator": "<=",
+        "value": 40
+      }
+  },
+  "name":"Hates being underground",
+  "description":"You do not like to be underground and suffer if you are."  
+  }
+  

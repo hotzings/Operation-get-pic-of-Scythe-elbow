@@ -1,0 +1,13 @@
+{
+    "name":"Drunk hobo",
+    "description":"You are a drunk hobo.",
+
+	"powers": [
+		"zings:hobo/drunk"
+	],
+	"icon": {
+		"item": "brewery:beer_barley"
+	},
+	"order": 2,
+	"impact": 3
+}
