@@ -50,6 +50,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -60,11 +65,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "apotheosis": {
-    "adventure": true,
-    "ench": true,
-    "spawner": true
   },
   "corpse": {
     "corpse": true
