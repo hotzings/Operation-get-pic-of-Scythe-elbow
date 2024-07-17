@@ -201,3 +201,7 @@ key.little.config.item
 key.little.undo
 key.little.redo
 key.hotbar.9
+key.moreoverlays.lightoverlay.desc
+key.moreoverlays.chunkbounds.desc
+key.easy_villagers.pick_up
+key.easy_villagers.cycle_trades

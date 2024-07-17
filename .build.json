@@ -3,5 +3,5 @@
     "minecraftVersion": "1.20.1",
     "modLoader": "forge",
     "modLoaderVersion": "47.3.0",
-    "includes": ["config", "options.txt", "map", "resources", "kubejs", "global_packs", "instance.png", "shaderpacks", "knownkeys.txt", "options.txt"]
+    "includes": ["defaultconfigs", "map", "resources", "kubejs", "global_packs", "instance.png", "shaderpacks", "knownkeys.txt"]
 }
