@@ -5,7 +5,7 @@
     "minecraft:bedrock",
     "minecraft:crying_obsidian",
     "minecraft:obsidian",
-    "minecraft:basalt",
+
     "aether:carved_stone",
     "aether:sentry_stone",
     "aether:locked_carved_stone",
@@ -20,6 +20,9 @@
     "aether:carved_slab",
     "aether:carved_wall",
     "aether:locked_angelic_stone",
-    "botania:infrangible_platform"
+
+    "botania:infrangible_platform",
+
+    "tetra:seeping_bedrock"
   ]
 }
