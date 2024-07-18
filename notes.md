@@ -1,6 +1,6 @@
 # random shit
 
-add a drunk hobo origin for harrnort
+improve drunk origin for harrnort
 
 add achievements for getting all music discs
 and getting the banners from brewing mod
@@ -9,6 +9,8 @@ and other collection stuff
 # features
 
 add litematica
+update mods (scorch can you do this please thanks)
+
 
 
 
