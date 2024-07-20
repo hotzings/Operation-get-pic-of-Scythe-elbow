@@ -48,6 +48,8 @@ mods/.connector
 /config/packetfixer.properties
 /config/indigo-renderer.properties
 /config/sound_physics_remastered
+config/ItemLocks/nodes
+
 
 # dev mods
 
