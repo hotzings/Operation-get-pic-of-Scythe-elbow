@@ -71,5 +71,5 @@
 
 													[config.ktnilcks.section.config.ktnilcks.section.config.ktnilcks.section.hotbar.config.ktnilcks.hotbar.visible]
 														#config.ktnilcks.hotbar.visible.long
-														short = false
+														short = true
 

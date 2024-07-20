@@ -9,14 +9,18 @@
     "minecraft:cactus",
 
     "aether:locked_carved_stone",
-    "aether:locked_sentry_stone",
     "aether:trapped_carved_stone",
+    "aether:locked_sentry_stone",
     "aether:trapped_sentry_stone",
+    
     "aether:boss_doorway_carved_stone",
     "aether:boss_doorway_sentry_stone",
     "aether:treasure_doorway_carved_stone",
     "aether:treasure_doorway_sentry_stone",
     "aether:locked_angelic_stone",
+    "aether:locked_light_angelic_stone",
+    "aether:locked_hellfire_stone",
+    "aether:locked_light_hellfire_stone",
 
     "botania:infrangible_platform",
 
