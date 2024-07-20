@@ -8,8 +8,6 @@
     "minecraft:reinforced_deepslate",
     "minecraft:cactus",
 
-    "aether:carved_stone",
-    "aether:sentry_stone",
     "aether:locked_carved_stone",
     "aether:locked_sentry_stone",
     "aether:trapped_carved_stone",
@@ -18,9 +16,6 @@
     "aether:boss_doorway_sentry_stone",
     "aether:treasure_doorway_carved_stone",
     "aether:treasure_doorway_sentry_stone",
-    "aether:carved_stairs",
-    "aether:carved_slab",
-    "aether:carved_wall",
     "aether:locked_angelic_stone",
 
     "botania:infrangible_platform",
