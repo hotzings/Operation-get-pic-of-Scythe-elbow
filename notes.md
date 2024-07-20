@@ -10,7 +10,7 @@ and other collection stuff
 
 add litematica
 update mods (scorch can you do this please thanks)
-
+make blood damage water hating creatures
 
 
 

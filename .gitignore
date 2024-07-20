@@ -1,8 +1,12 @@
+# basic modpack stuff
+local
+logs
+
+# misc
 jarmods
 disabledmods
 jarmods
-local
-logs
+
 modernfix
 mods/*.jars
 patchouli_books
@@ -38,3 +42,18 @@ mods/.connector
 /defaultconfigs/ftblibrary/ftblibrary-client.snbt
 /servers.dat_old
 /build
+
+# local configs
+/config/jei/world
+/config/oculus.properties
+/con
+
+# dev mods
+
+# Library needed for minihud
+mods/malilib-fabric-1.20.1-0.16.3.jar
+config/malilib.json
+#mini hud is a mod that displays where mobs can spawn and stuff
+mods/minihud-fabric-1.20.1-0.27.0.jar
+config/minihud.json
+config/minihud

@@ -18,3 +18,4 @@ del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods\enti
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods\LegendaryTooltips-1.20.1-forge-1.4.5.jar /q
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods\oculus-mc1.20.1-1.7.0.jar /q
 del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods\rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar /q
+del C:\Users\zings\AppData\Roaming\ATLauncher\servers\ScorchPackServer\mods\ItemLocks-Forge-1.20.1-1.3.8.jar /q
