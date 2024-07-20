@@ -46,32 +46,47 @@
       ]
     },
     {
-      "name": "Stairs Up",
+      "name": "New Shape",
       "depth": -1,
       "reverse": 0,
       "reticle": 12,
-      "stride": 1,
-      "elevation": 1,
+      "stride": 0,
+      "elevation": 0,
       "mask": [
         "OOOOO",
-        "OOXOO",
-        "OOXOO",
-        "OOXOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
         "OOOOO"
       ]
     },
     {
-      "name": "Stairs Down",
+      "name": "New Shape",
       "depth": -1,
       "reverse": 0,
-      "reticle": 17,
-      "stride": 1,
-      "elevation": -1,
+      "reticle": 12,
+      "stride": 0,
+      "elevation": 0,
       "mask": [
         "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "New Shape",
+      "depth": -1,
+      "reverse": 0,
+      "reticle": 12,
+      "stride": 0,
+      "elevation": 0,
+      "mask": [
+        "OOOOO",
+        "OOOOO",
         "OOXOO",
-        "OOXOO",
-        "OOXOO",
+        "OOOOO",
         "OOOOO"
       ]
     }

@@ -49,6 +49,11 @@ mods/.connector
 /config/indigo-renderer.properties
 /config/sound_physics_remastered
 config/ItemLocks/nodes
+config/oreexcavation/shapes.json
+config/fabric/indigo-renderer.properties
+config/oculus.properties
+config/do_a_barrel_roll-client.json
+
 
 
 # dev mods
