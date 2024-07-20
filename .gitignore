@@ -45,10 +45,9 @@ mods/.connector
 
 # local configs
 /config/jei/world
-/config/oculus.properties
 /config/packetfixer.properties
 /config/indigo-renderer.properties
-/config/oculus.properties
+/config/sound_physics_remastered
 
 # dev mods
 
@@ -59,3 +58,4 @@ config/malilib.json
 mods/minihud-fabric-1.20.1-0.27.0.jar
 config/minihud.json
 config/minihud
+
