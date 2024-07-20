@@ -46,7 +46,8 @@ mods/.connector
 # local configs
 /config/jei/world
 /config/oculus.properties
-/con
+/config/packetfixer.properties
+/config/indigo-renderer.properties
 
 # dev mods
 
