@@ -1,4 +1,6 @@
 {
+  "name":"mole mode",
+  "description":"in mole mode you can go through blocks.",
     "type": "origins:toggle",
     "key": {
       "key": "key.origins.primary_active",

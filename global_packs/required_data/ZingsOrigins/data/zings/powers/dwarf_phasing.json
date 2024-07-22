@@ -1,4 +1,6 @@
 {
+  "name":"Phasing",
+  "description":"You can go through blocks.",
     "type": "origins:phasing",
     "blacklist": true,
     "render_type": "blindness",

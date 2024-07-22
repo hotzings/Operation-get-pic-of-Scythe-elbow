@@ -1,4 +1,6 @@
 {
+  "name":"hunger go brrrr",
+  "description":"You lose hunger faster in molemode.",
   "type": "origins:exhaust",
   "interval": 20,
   "exhaustion": 0.812,

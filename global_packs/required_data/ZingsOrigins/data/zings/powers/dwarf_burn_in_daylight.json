@@ -1,4 +1,6 @@
 {
+  "name":"Burn in daylight",
+  "description":"You burn in the sun.",
     "type": "apoli:burn",
     "burn_duration": 6,
     "condition": {

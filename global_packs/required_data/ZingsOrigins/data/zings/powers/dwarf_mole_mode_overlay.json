@@ -1,4 +1,6 @@
 {
+  "name":"Mole mode",
+  "description":"in mole mode you can go through blocks.",
   "type": "apoli:multiple",
   "hidden": true,
   "green": {

@@ -1,4 +1,6 @@
 {
+	"name":"dwarf",
+  "description":"You are a dwarf.",
 	"powers": [
 		"zings:dwarf_mole_mode",
 		"zings:dwarf_phasing",
