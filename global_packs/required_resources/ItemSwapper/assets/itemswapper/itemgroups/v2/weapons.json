@@ -20,7 +20,42 @@
         "minecraft:golden_axe",
         "minecraft:stone_axe",
         "minecraft:mace",
-        "minecraft:wooden_axe"
+        "minecraft:wooden_axe",
+
+        "botania:king_key",
+        "botania:thunder_sword",
+        "botania:star_sword",
+        "botania:terra_sword",
+        "botania:missle_rod",
+        "botania:manasteel_sword",
+        "botania:elementium_sword",
+        "botania:livingwood_bow",
+        "botania:crystal_bow",
+
+        "aether:pheonix_bow",
+        "aether:valkryie_lance",
+        "aether:poison_dart_shooter",
+        "aether:enchanted_dart_shooter",
+        "aether:flaming_sword",
+        "aether:lightning_knife",
+        "aether:lightning_sword",
+        "aether:vampire_blade",
+        "aether:holy_sword",
+        "aether:candy_cane_sword",
+        "aether:gravitite_sword",
+        "aether:zanite_sword",
+        "aether:holystone_sword",
+        "aether:skyroot_sword",
+
+        "aquaculture:neptunium_sword",
+        "deeperdarker:warden_sword",
+
+        "betterend:aetherium_sword:",
+        "betterend:terminite_sword:",
+        "betterend:thallasium_sword:"
+        
+
+
     ],
     "ignoreItems": [
         "minecraft:netherite_axe",
